@@ -1,0 +1,27 @@
+header {
+    background-color: #b2b2b2;
+}
+
+h1 {
+    text-transform:uppercase;
+    text-align: center;
+    color: #fff;
+}
+
+h2 {
+    text-transform:uppercase;
+    color: #11007f;
+}
+
+section {
+    background-color: #7f7f7f;
+}
+
+a {
+    background-color: #c5c5c5;
+    color: #000;
+}
+
+img {
+    display: none;
+}
